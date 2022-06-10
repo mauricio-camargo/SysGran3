@@ -1,0 +1,71 @@
+A partir desta versão (3.0) do Sysgran, o programa 
+será disponibilizado sob licença GNU, com codigo 
+aberto e livre para modificações.
+
+Para instalar o programa, desinstale versões
+anteriores do SysGran e feche todos os programas.
+A instalação foi testatda em computadores 
+O programa foi testado no Windows 98, 
+Windows ME, Windows 2000 e Windows XP. 
+
+O programa foi compilado em Delphi 6.
+
+AUTOR ORIGINAL
+Maurício Garcia de Camargo
+Centro de Estudos do Mar - UFPR
+E-Mail: mauricio.camargo@ufpr.br
+
+COLABORADORES
+O desenvolvimento do Sysgran contou com
+as seguintes colaborações iniciais:
+
+Anderson A. Pelanda
+- Beta, alfa e gama tester.
+- Layout
+ 
+Kassio Rios
+- BMP da tela inicial.
+- Icon do programa
+- Configuração original do programa de instalação
+- Gama tester
+
+Carlos R. Soares
+- Assessoria para sedimentologia
+- sugestões originais de análises
+
+Carlos Alberto Borzone
+- Detecção de bugs na classificação verbal do método das medidas dos momentos
+
+HISTÓRICO DAS VERSÕES
+
+Versão 3.1
+- Novo help e leiame atualizados para a versão 3
+- Novo ícone do programa
+- Pequenos bugs resolvidos de adaptação ao modo MDI
+
+Versão 3.0
+- Programa livre com código aberto
+- Novo layout MDI
+- Opção de não plotar os labels nos diagramas de Shepard e Pejrup
+- Os demais gráficos agora podem ser configurados para a escala, cores, 3D, etc...
+- Diversos bugs resolvidos
+- Compatível com Windows XP
+- Opção de salvar nos formatos bmp, wmf, emf
+- Remoção do limite de 50 classes de tamanho. Agora todas as colunas (classes) podem ser preenchidas,
+  totalizando 255, o que permite a utilização do programa para análises granulométricas a laser.
+- Retirada da compatibilidade com antigas versões de arquivos de texto separado por TAB. 
+
+Versão 2.4
+- Inclusão de gráficos bivariados
+- Inclusão dos diagramas e Shepard e Pejrup
+- Correção de bug na classificação verbal do método das medidas dos momentos
+
+Versão 2.2
+- Leitura de arquivos Excel 4
+- Inclusão da análise por medida dos momentos
+
+Versão 2.0
+- Conversão para Windows 95.
+
+Versão 1.0
+- Versão original para Windows 3.1 

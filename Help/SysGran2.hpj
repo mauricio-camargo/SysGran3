@@ -1,0 +1,9 @@
+; This file is maintained by HCW. Do not modify this file directly.
+
+[OPTIONS]
+LCID=0x416 0x0 0x0 ; Portuguese (Brazil)
+REPORT=Yes
+HLP=.\SysGran.hlp
+
+[FILES]
+.\SysGran.rtf
